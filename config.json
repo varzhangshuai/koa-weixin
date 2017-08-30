@@ -1,0 +1,8 @@
+{
+  "wx": {
+    "appid": "aapid",
+    "appSecret": "appSecret",
+    "token": "token",
+    "encodingAESKey": ""
+  }
+}
